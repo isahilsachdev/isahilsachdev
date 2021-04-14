@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isahilsachdev
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Mern stack
-- 💞️ I’m looking to collaborate on full stack development
+- 💞️ I’m looking to work as full stack development
 - 📫 How to reach me 7737191046 , isahilsachdev00@gmail.com
