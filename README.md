@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sahil Sachdev.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Mern stack development.
-- 💞️ I can work on various frontend and backend technologies like React , redux , html , css , javaScript , mongodb , mysql , with good knowledge of data structures and algorithms with an ability to work on collaborative projects to deliver essential outcomes.   
+- 💞️ I can work on various frontend and backend technologies like React , redux , html , css , javaScript , node js , express js , mongodb , mysql , with good knowledge of data structures and algorithms with an ability to work on collaborative projects to deliver essential outcomes.   
 - 📫 How to reach me 7737191046 , isahilsachdev00@gmail.com , linkedin.com/in/sahil-sachdev-8381541b1/
